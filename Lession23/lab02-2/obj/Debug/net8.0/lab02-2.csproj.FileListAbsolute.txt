@@ -1,0 +1,15 @@
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.AssemblyInfoInputs.cache
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.AssemblyInfo.cs
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.csproj.CoreCompileInputs.cache
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.sourcelink.json
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\bin\Debug\net8.0\lab02-2.exe
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\bin\Debug\net8.0\lab02-2.deps.json
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\bin\Debug\net8.0\lab02-2.runtimeconfig.json
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\bin\Debug\net8.0\lab02-2.dll
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\bin\Debug\net8.0\lab02-2.pdb
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.dll
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\refint\lab02-2.dll
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.pdb
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\lab02-2.genruntimeconfig.cache
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\Lession23\lab02-2\obj\Debug\net8.0\ref\lab02-2.dll
