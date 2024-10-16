@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\Lession24\\lab3_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3F2516-0066-4B11-983F-DC14EC34EBF7}|lab3_2.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession24\\lab3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3F2516-0066-4B11-983F-DC14EC34EBF7}|lab3_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3F2516-0066-4B11-983F-DC14EC34EBF7}|lab3_2.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession24\\lab3_2\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3F2516-0066-4B11-983F-DC14EC34EBF7}|lab3_2.csproj|solutionrelative:contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\Lession24\\lab3_2\\Contact.cs",
+              "RelativeDocumentMoniker": "Contact.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\Lession24\\lab3_2\\Contact.cs",
+              "RelativeToolTip": "Contact.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:55:45.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\Lession24\\lab3_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\Lession24\\lab3_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:55:06.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
