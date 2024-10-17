@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_3\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9918770F-CA12-455F-9E05-B2AE25A34F13}|Lab4_3.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:24:32.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:24:00.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Shape.cs*",
+              "RelativeToolTip": "Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:23:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T02:20:38.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
