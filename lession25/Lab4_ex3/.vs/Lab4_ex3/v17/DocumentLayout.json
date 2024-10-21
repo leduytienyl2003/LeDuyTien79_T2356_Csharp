@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_ex3\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|solutionrelative:document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_ex3\\istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|solutionrelative:istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession25\\lab4_ex3\\iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA29F12-F592-416D-B313-4620CF9ECA8D}|Lab4_ex3.csproj|solutionrelative:iencryptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEncryptable.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\IEncryptable.cs",
+              "RelativeDocumentMoniker": "IEncryptable.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\IEncryptable.cs",
+              "RelativeToolTip": "IEncryptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:01:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStoreable.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\IStoreable.cs",
+              "RelativeDocumentMoniker": "IStoreable.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\IStoreable.cs",
+              "RelativeToolTip": "IStoreable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:00:29.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\Document.cs",
+              "RelativeDocumentMoniker": "Document.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\Document.cs",
+              "RelativeToolTip": "Document.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:00:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession25\\Lab4_ex3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:32:36.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

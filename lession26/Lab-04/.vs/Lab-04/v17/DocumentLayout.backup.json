@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF06AD-0E33-4281-8990-2C441E65AB73}|Lab-04.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession26\\lab-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF06AD-0E33-4281-8990-2C441E65AB73}|Lab-04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF06AD-0E33-4281-8990-2C441E65AB73}|Lab-04.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession26\\lab-04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF06AD-0E33-4281-8990-2C441E65AB73}|Lab-04.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBF06AD-0E33-4281-8990-2C441E65AB73}|Lab-04.csproj|c:\\devmatser\\c#\\leduytien79_t2356_csharp\\lession26\\lab-04\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBF06AD-0E33-4281-8990-2C441E65AB73}|Lab-04.csproj|solutionrelative:chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\Book.cs*",
+              "RelativeToolTip": "Book.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:12:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\Chapter.cs",
+              "RelativeDocumentMoniker": "Chapter.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\Chapter.cs*",
+              "RelativeToolTip": "Chapter.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:12:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevMatser\\C#\\LeDuyTien79_T2356_Csharp\\lession26\\Lab-04\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:11:24.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
