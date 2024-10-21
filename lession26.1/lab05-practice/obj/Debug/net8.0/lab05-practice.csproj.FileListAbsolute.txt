@@ -1,0 +1,15 @@
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\bin\Debug\net8.0\lab05-practice.exe
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\bin\Debug\net8.0\lab05-practice.deps.json
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\bin\Debug\net8.0\lab05-practice.runtimeconfig.json
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\bin\Debug\net8.0\lab05-practice.dll
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\bin\Debug\net8.0\lab05-practice.pdb
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.AssemblyInfoInputs.cache
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.AssemblyInfo.cs
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.csproj.CoreCompileInputs.cache
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.sourcelink.json
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.dll
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\refint\lab05-practice.dll
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.pdb
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\lab05-practice.genruntimeconfig.cache
+C:\DevMatser\C#\LeDuyTien79_T2356_Csharp\lession26.1\lab05-practice\obj\Debug\net8.0\ref\lab05-practice.dll
